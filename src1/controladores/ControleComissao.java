@@ -9,10 +9,10 @@ import entidades.Comissao;
 /**
  * Representacao o Controle de uma Comissao.
  * 
- * @author Andre Luis Souza de Andrade Santana - Matricula: 118210116
- * @author Caio Jose dos Santos Arruda - Matricula: 118210844
- * @author Joao Vitor Romao Patricio - Matricula: 118211058
- * @author Sheila Maria Mendes Paiva - Matricula: 118210186
+ * @author Andre Luis Souza de Andrade Santana 
+ * @author Caio Jose dos Santos Arruda 
+ * @author Joao Vitor Romao Patricio 
+ * @author Sheila Maria Mendes Paiva 
  */
 public class ControleComissao implements Serializable {
 	
